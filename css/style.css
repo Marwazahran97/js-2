@@ -1,0 +1,30 @@
+h1{
+    font-size: 80px;
+    font-weight: 900;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding-bottom: 30px;
+}   
+.info p{
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    padding-bottom: 30px;
+
+}
+.btn-btn{
+    background-color: blue;
+    margin: 15px 15px;
+    width: 250px;
+    height: 80px;
+    color: white;
+}
+
+.btn-btn:hover{
+    background-color: green;
+    
+}
+.quote{
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    padding-bottom: 30px;
+    text-align: center;
+}
